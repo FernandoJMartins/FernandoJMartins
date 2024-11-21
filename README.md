@@ -1,26 +1,15 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff1111&height=130&section=header"/>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3ddbf0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Fernando+Julio+👋;I'm+Graduating+in+Web+Systems+Development;Console.Log("Be+Welcome!+:%29"))](https://git.io/typing-svg)
+
+<br>
+
+<p align="left">- Languages and Tools that I use:</p>
+
+###
+
 <div align="center">
-  <img height="150" src="https://cdn.pfps.gg/banners/4469-cyrex.gif"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Fernando Julio from João Pessoa/BR<br><br>- 🔭 I’m studing at IFPB - Jaguaribe<br>- 📚 I'm currently learning PHP/AWS</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -49,11 +38,16 @@
 </div>
 
 ###
+<br>
 
-<h3 align="left">🔥   My Stats :</h3>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FernandoJMartins&bg_color=050A0E&color=FF003C&line=bd00ff&point=00ff9f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-###
 
+
+![FernandoJMartins's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoJMartins&show_icons=true&theme=transparent&hide=prs,issues&hide_border=true&title_color=FF4A57)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoJMartins&layout=compact&theme=transparent&card_width=400px&langs_count=8&hide_border=true&title_color=FF4A57)
+<br>
+<br>
 <div align="center">
   <a href="https://wa.me/5583996335515" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
@@ -62,5 +56,13 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
+<br>
+<br>
 
-###
+<div align="center">
+    <br><p align="centre"><b>Visitors Count</b></p>  
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{FernandoJMartins}/count.svg" /></p> 
+    <br>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff1111&height=130&section=footer"/>
