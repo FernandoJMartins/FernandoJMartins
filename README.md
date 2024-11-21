@@ -42,19 +42,24 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FernandoJMartins&bg_color=050A0E&color=FF003C&line=bd00ff&point=00ff9f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FernandoJMartins&show_icons=true&theme=transparent&hide=prs,issues&hide_border=true&title_color=FF4A57" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoJMartins&layout=compact&theme=transparent&card_width=400px&langs_count=8&hide_border=true&title_color=FF4A57" alt="Top Langs" width="48%" />
+</p>
 
-![FernandoJMartins's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoJMartins&show_icons=true&theme=transparent&hide=prs,issues&hide_border=true&title_color=FF4A57)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoJMartins&layout=compact&theme=transparent&card_width=400px&langs_count=8&hide_border=true&title_color=FF4A57)
 <br>
 <br>
 
+<p align="center">
   <a href="https://wa.me/5583996335515" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
   <a href="https://www.linkedin.com/in/fernando-j%C3%BAlio-06338721b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+</p>
 
 <br>
 <br>
