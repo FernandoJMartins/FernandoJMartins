@@ -4,13 +4,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3ddbf0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Fernando+Julio+👋;I'm+Graduating+in+Web+Systems+Development;Console.Log("Be+Welcome!+:%29"))](https://git.io/typing-svg)
 
 <br>
+<p align="center">[Meu portfolio]([url](https://fernandojmartins.github.io/portfolio-dinamico/))</p>
+<br>
 
 <p align="left">- Languages and Tools that I use:</p>
 
 ###
 
-<p>Meu portfolio</p>
-https://fernandojmartins.github.io/portfolio-dinamico/
+
 
 ###
 
